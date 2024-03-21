@@ -1,3 +1,3 @@
 Hello, I'm a technology-driven leader with a passion for data and dogs. With a background in Finance, Business Administration, and Data Analytics, I bring over seven years of hands-on experience as an individual investor in the Vietnamese stock market, in addition to over a year of experience as an Investment Banking Analyst. Currently pursuing a master of science in Commerce and Economic Development with a concentration in Data Analytics.
-Here is my project related to stock market which is one of my favorite topic to talk about.
+Here is my project related to stock market which is one of my favorite topics to talk about.
 The purpose of the project is to calculate and compare profitability and risk of different investments using the Sharpe Ratio.
